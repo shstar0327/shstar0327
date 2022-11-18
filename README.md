@@ -3,7 +3,6 @@
 <p>Welcome to my page! </br> I'm Full Stack Developer & AI Engineer from <img src="canada-flag-icon-3.png" width="15"/> <b>ON, Canada</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge" alt="CSS Modules Badge">
@@ -70,5 +69,4 @@
 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
-  </center>
 </p>
